@@ -1,0 +1,125 @@
+body {
+	font-family: Arial;
+	background-color:  #241f1c;
+	color: #e7dac7;
+	font-weight: bold;
+}
+
+h1 {
+	text-align: center;
+	clear:both;
+	padding: 20px;
+	text-align: center;
+	font-weight: bold;
+	color: #e7dac7;
+}
+
+h1,h2, h3 {
+	text-align: center;
+	clear:both;
+	padding: 20px;
+	text-align: center;
+	font-weight: bold;
+	color: #e7dac7;
+}
+
+h1 {
+	background: #937047;
+	color: white;
+	font-size: 30px;
+
+}
+
+#subpages {
+	width: 300px;
+	border: 3px solid #937047;
+	border-radius: 25px;
+	padding: 10px;
+	margin: 5px;
+	font-size: 15px;
+	text-align: left;
+	right: 150px;
+	position: relative;
+	float: right;
+	clear: none;
+	z-index: 9999;
+}
+
+#cover {
+	border: 3px solid #937047;
+    border-radius: 25px;
+    float: left;
+	position: relative;
+    left: 150px;
+	width: 1000px;
+    height: 500px;
+	clear: none;
+    padding: 10px;
+    font-size:20px;
+    text-align:center;
+    z-index:9999;
+}
+
+#cover a {
+	float: left;
+}
+
+#embed {
+	text-align: center;
+	border: 3px solid #937047;
+    border-radius: 25px;
+	width: 1000px;
+	padding: 10px;
+	position: relative;
+	left: 150px;
+    top:50px;
+	float:left;
+    clear: none;
+    z-index:9999;
+}
+
+#music {
+    background-color: #241f1c;
+    border: 2px solid #937047;
+    border-radius: 25px;
+    text-align: center;
+    width:300px;
+    padding: 10px;
+    bottom: 50px;
+    right: 150px;
+    position: fixed; 
+    z-index:9999;
+}
+
+#Link {
+    top:70px;
+    position:relative;
+}
+
+hr {
+	height:5px;
+	color:#937047;
+	background-color:#937047;
+	clear: left;
+	border-color: #937047
+}
+
+a:link  {
+	color:#937047;
+	background-color: transparent;
+	text-decoration: underline;
+}
+  
+a:visited	{
+	color:white;
+	text-decoration:none;
+}
+
+  #references {
+	position: relative;
+	top:150px;
+}
+
+#links  {
+    text-align: center;
+}
